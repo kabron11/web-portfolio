@@ -1,5 +1,5 @@
 * {
-	font-family: "Zilla Slab";
+    font-family: "Zilla Slab";
 }
 
 /*background*/
@@ -29,4 +29,43 @@ nav img {
     margin: 10px;
 }
 
+.icon-blue {
+    color: blue;
+    transition: color 0.3s; 
+}
 
+.icon-blue:hover {
+    color: black ;
+}
+
+.icon-white {
+    color: white;
+    transition: color 0.3s; 
+}
+
+.icon-white:hover {
+    color: black ; 
+}
+
+
+.icon-orange {
+    color: orangered;
+    transition: color 0.3s; 
+}
+
+.icon-white:hover {
+    color: black ; 
+}
+
+.icon-purple {
+    color: purple ;
+    transition: color 0.3s; 
+}
+
+.icon-white:hover {
+    color: black ; 
+}
+
+html {
+  scroll-behavior: smooth;
+}
