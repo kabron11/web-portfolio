@@ -1,0 +1,32 @@
+* {
+	font-family: "Zilla Slab";
+}
+
+/*background*/
+.bg-wall {
+    background-image: url(./images/background.jpg); 
+    background-size: cover; 
+    background-repeat: no-repeat;}
+
+.bg-wall2 {
+    background-image: url(./images/background2.jpg); 
+    background-size: cover; 
+    background-repeat: no-repeat;}
+
+/*nav avatar*/
+nav img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-right: 10px; 
+}
+
+.avatar {
+    width: 220px;
+    height: 220px;
+    border-radius: 10%;
+    margin: 10px;
+}
+
+
