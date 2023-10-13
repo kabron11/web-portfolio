@@ -54,7 +54,7 @@ nav img {
     transition: color 0.3s; 
 }
 
-.icon-white:hover {
+.icon-orange:hover {
     color: black ; 
 }
 
@@ -63,7 +63,7 @@ nav img {
     transition: color 0.3s; 
 }
 
-.icon-white:hover {
+.icon-purple:hover {
     color: black ; 
 }
 
